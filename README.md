@@ -1,2 +1,0 @@
-# cvReact
-CV con React 
